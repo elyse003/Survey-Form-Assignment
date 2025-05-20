@@ -1,2 +1,3 @@
 Line 1 in master
 Line 2 in master
+Line 5 in master
